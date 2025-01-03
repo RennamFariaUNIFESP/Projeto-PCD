@@ -7,4 +7,6 @@ Objetivo: compara o código sequencial do cálculo da equação com outros méto
 
 ### Métodos de parametização:
   * OpenMP
+  * CUDA
+    
   
